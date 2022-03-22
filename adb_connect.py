@@ -8,6 +8,6 @@ def connect_adb():
     print('正在连接... \n')
     time.sleep(3)
 connect_adb()
-print('Done')
+print('Done！！')
 
 # 新增加的内容，确认修改流程。
