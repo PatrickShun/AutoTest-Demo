@@ -10,3 +10,4 @@ def connect_adb():
 connect_adb()
 print('Done')
 
+# 新增加的内容，确认修改流程。
